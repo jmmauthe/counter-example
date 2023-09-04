@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://images.unsplash.com/36/yJl7OB3sSpOdEIpHhZhd_DSC_1929_1.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGNyb3dkfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60");
+    background-size: cover;
+    font-family: "Train One", cursive;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    text-shadow: 3px 3px 5px #000;
+    height: 100vh;
+}
+
+.container {
+    background: #999;
+    max-width: 80%;
+    margin: auto;
+    padding: 40px;
+    border: 3px solid #000;
+    border-radius: 5px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 75px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    text-shadow: 3px 3px 5px #000;
+}
+
+button {
+    border: none;
+    padding: auto;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #000;
+}
+
+#save-btn {
+    background: darkgreen;
+}
